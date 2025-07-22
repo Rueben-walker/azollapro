@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AZOLLAPRO | Sustainable Azolla Solutions</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>AZOLLAPRO</h1>
+            <nav>
+                <a href="#about">About</a>
+                <a href="#services">Services</a>
+                <a href="#contact">Contact</a>
+            </nav>
+        </div>
+    </header>
+
+    <section class="hero">
+        <h2>Innovating with Azolla for a Sustainable Future</h2>
+        <p>We provide eco-friendly Azolla-based solutions to revolutionize agriculture and animal feed.</p>
+        <a href="#contact" class="btn">Get in Touch</a>
+    </section>
+
+    <section id="about" class="section">
+        <div class="container">
+            <h2>About AZOLLAPRO</h2>
+            <p>AZOLLAPRO is committed to transforming agriculture by promoting Azolla as a cost-effective and sustainable solution. We aim to empower farmers with training, quality Azolla products, and innovative practices.</p>
+        </div>
+    </section>
+
+    <section id="services" class="section dark">
+        <div class="container">
+            <h2>Our Services</h2>
+            <ul>
+                <li>Azolla farming consultancy</li>
+                <li>Training for farmers and entrepreneurs</li>
+                <li>Supply of high-quality Azolla plants</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="contact" class="section">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <p>Email: walkerrueben4@gmail.com</p>
+            <p>Phone: +233 55 703 5612</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 AZOLLAPRO | Powered by Open Source</p>
+    </footer>
+</body>
+</html>
